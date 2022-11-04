@@ -28,8 +28,8 @@ The design is built to allow users use the app easily. The design is accessible 
  - 
 
 ## Chalenge(s)
- - Pixel overflow when the project text is long
-  Solution: I wrapped the text widget with a container so that it moves to the next line when it reaches the end of the screen.
+ - Pixel overflow when the project text is long.
+ - Solution: I wrapped the text widget with a container so that it moves to the next line when it reaches the end of the screen.
   
   
 ## Appetize.io link
