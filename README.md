@@ -26,6 +26,9 @@ The design is built to allow users use the app easily. The design is accessible 
  - Resume download functionality
  - Ability to communicate (chat/call) within the app
  - 
+ 
+ ## Link to APK
+ [Click here to download APK file](https://drive.google.com/file/d/1Lkofys1aKaSK6lMkRAPe3kpJOjsoYfFe/view?usp=sharing)
 
 ## Chalenge(s)
  - Pixel overflow when the project text is long.
