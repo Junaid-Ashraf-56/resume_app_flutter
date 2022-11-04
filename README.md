@@ -1,4 +1,4 @@
-# my_resume_app
+# Resume App
 
 A new Flutter project.
 
