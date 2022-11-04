@@ -37,3 +37,7 @@ The design is built to allow users use the app easily. The design is accessible 
 
 
 ## Screenshots
+https://user-images.githubusercontent.com/104990430/199874417-4fdfa5dc-7611-44c9-97fd-5fe88b0112ce.png
+
+https://user-images.githubusercontent.com/104990430/199874496-d541e5fb-3291-49b2-819e-3d3527dd2c06.png
+
