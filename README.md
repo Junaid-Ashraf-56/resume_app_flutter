@@ -1,6 +1,11 @@
 # Resume App
 
-A new Flutter project.
+### Description
+This is a resume app built using Flutter.
+
+### Code base
+This app uses a single dart codebase which allows it to run on both android and ios devices.
+
 
 ## Getting Started
 
