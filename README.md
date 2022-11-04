@@ -1,21 +1,30 @@
 # Resume App
 
-### Description
+## Description
 This is a resume app built using Flutter.
 
-### Code base
-This app uses a single dart codebase which allows it to run on both android and ios devices.
+## Features
+ - View Image, name, position and bio
+ - View social media handles by clicking on the links
+ - View projects/portfolio
+ - Download Resume (UI only)
+ - Toggle between light and darkmode manually
+ 
+## Code base
+This app is built with flutter which uses a single dart codebase that allows it to run on both android and ios devices.
 
+## Design
+The design is built to allow users use the app easily. The design is accessible and usable and follows crucial rules of design.
 
-## Getting Started
+## Features I'd  love to add
+ - Automatic light and dark theme switching
+ - Automatic language switching
+ - Resume download functionality
+ - Ability to communicate (chat/call) within the app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Chalenge(s)
+ - Pixel overflow when the project text is long
+  Solution: I wrapped the text widget with a container so that it moves to the next line when it reaches the end of the screen.
+  
+## Appetize.io link
+[Click here to test app](https://appetize.io/app/v4u347v7pz6dutqez2jhwp6ile?device=iphone14promax&osVersion=16.0&scale=75)
