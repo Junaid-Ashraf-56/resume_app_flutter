@@ -33,7 +33,11 @@ The design is built to allow users use the app easily. The design is accessible 
 ## Chalenge(s)
  - Pixel overflow when the project text is long.
  - Solution: I wrapped the text widget with a container so that it moves to the next line when it reaches the end of the screen.
-  
+
+## Libraries used
+### Iconsax icons
+This library was used because it provides beatiful icons that make the ui of the app visually pleasing.
+[Go to iconsax Library](iconsax.io)
   
 ## Appetize.io link
 [Click here to test app](https://appetize.io/app/v4u347v7pz6dutqez2jhwp6ile?device=iphone14promax&osVersion=16.0&scale=75)
